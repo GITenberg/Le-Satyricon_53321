@@ -1,5 +1,5 @@
 _repo: Le-Satyricon_53321
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Laboureur, Jean Emile
@@ -28,6 +28,9 @@ contributor:
     gutenberg_agent_id: '47304'
     url: http://www.gutenberg.org/2009/agents/47304
     wikipedia: https://fr.wikipedia.org/wiki/Laurent_Tailhade
+covers:
+- cover_type: archival
+  image_path: 53321-h/images/cover.jpg
 creator:
   author:
     agent_name: Petronius Arbiter
@@ -40,6 +43,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1743
     wikipedia: http://en.wikipedia.org/wiki/Petronius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53321#Le-Satyricon
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-10-19'
 gutenberg_type: Text
